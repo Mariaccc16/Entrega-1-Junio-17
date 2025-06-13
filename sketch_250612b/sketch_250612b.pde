@@ -1,4 +1,5 @@
-// Entrega 1 Logo Atlético Nacional
+// E1: Color y Forma
+// Logo Atlético Nacional
 // María Camila Serrato Restrepo
 // 202410329 - Intersemestral
 
