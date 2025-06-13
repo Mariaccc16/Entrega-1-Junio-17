@@ -6,6 +6,8 @@
 size(600,700);
 background(255);
 
+// Color a usar -> verde RGB: 49, 153, 17
+
 // Triángulos internos
 
 // square(220, 290, 170); // referencia para proporción de los triángulos internos
